@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: tinat-rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Apocalyptic_Cow
+Implementation-Vendor-Id: com.tinat
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
